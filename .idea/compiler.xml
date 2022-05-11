@@ -19,6 +19,7 @@
       <module name="mall-order" target="1.8" />
       <module name="mall-product" target="1.8" />
       <module name="mall-ware" target="1.8" />
+      <module name="Yuzu-online" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
